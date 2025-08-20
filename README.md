@@ -13,7 +13,7 @@ A compact, well-documented data visualization and ML project exploring why bank 
 
 ##  Germany has the highest churn, especially for high-balance customers
 
-## France & Spain show more churn for medium-balance customers
+####  France & Spain show more churn for medium-balance customers
 
 ## Ages 41–60 are most churn-prone; inactivity increases churn risk
 
