@@ -3,24 +3,24 @@ A compact, well-documented data visualization and ML project exploring why bank 
 
 # Project Overview
 
-Dataset: 10,021 retail bank customers
+## Dataset: 10,021 retail bank customers
 
-Goal: Identify churn drivers and build a predictive model
+## Goal: Identify churn drivers and build a predictive model
 
-Key Findings:
+## Key Findings:
 
-Overall churn rate ≈ 20.4%
+## Overall churn rate ≈ 20.4%
 
-Germany has the highest churn, especially for high-balance customers
+##  Germany has the highest churn, especially for high-balance customers
 
-France & Spain show more churn for medium-balance customers
+## France & Spain show more churn for medium-balance customers
 
-Ages 41–60 are most churn-prone; inactivity increases churn risk
+## Ages 41–60 are most churn-prone; inactivity increases churn risk
 
-Model Performance:
+## Model Performance:
 
-Logistic Regression with SMOTE
+## Logistic Regression with SMOTE
 
-ROC-AUC ≈ 0.787
+## ROC-AUC ≈ 0.787
 
-Recall ≈ 0.715, Precision ≈ 0.395
+## Recall ≈ 0.715, Precision ≈ 0.395
