@@ -163,8 +163,8 @@ The **Logistic Regression model with SMOTE** achieved a strong **ROC-AUC of 0.78
 
 ##  Repository Contents
 
-* `Dataviz.ipynb` — Exploratory analysis, churn insights, and model building
-* `README.md` — Project documentation (you’re reading it!)
+* `Dataviz.ipynb` : Exploratory analysis, churn insights, and model building
+* `README.md`: Project documentation (you’re reading it!)
 
 ---
 
